@@ -9,6 +9,7 @@
 ### 安装方式 
 
 下载 <https://github.com/logoove/dede-banner>
+织梦全新后台安装版1.0发布 <https://gitee.com/yoby/dedecms>
 
  1 通过安装包,目录里xml文件就是,通过织梦插件管理即可安装.自动的
 2. 手动安装,根据下面提供的表,导入到数据库,然后把所有文件复制到相应路径.最后在菜单添加个访问路径`http://域名/dede/yoby_ad_main.php`
